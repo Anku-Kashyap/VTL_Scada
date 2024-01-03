@@ -1,0 +1,301 @@
+/* .header {
+    background-image: url(/src/images/HP2.jpg);
+    background-repeat: repeat-y;
+      background-size: 100%;
+      position:relative;
+      top: 5px;
+      left: 25px;
+      width: 75%;
+      height: 150px;
+      transform:scaleY(0.8);
+      top: 10px
+  }
+   */
+
+.zone-wise-area {
+    background-image: url(/src/images/zone-wise-pressure.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }
+
+  .zone-wise-area-Pratitnagar
+  {
+    background-image: url(/src/images/pratitnagar.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }
+
+  .zone-wise-area-nathuawala
+  {
+    background-image: url(/src/images/nathuawala.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }
+
+.data-point1{
+  color:white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 225px;
+  left: 210px;
+  width: 120px;
+  height: 30px
+}
+
+.data-point2{
+  color: white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 510px;
+  left: 335px;
+  width: 120px;
+  height: 30px
+}
+
+
+.data-point3{
+  color: white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 425px;
+  left: 335px;
+  width: 120px;
+  height: 30px
+}
+
+.data-point4{
+  color: white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 235px;
+  left: 1530px;
+  width: 120px;
+  height: 30px
+  
+}
+
+.data-point5{
+  color: white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 470px;
+  left: 1500px;
+  width: 120px;
+  height: 30px
+  
+}
+
+.data-point6{
+  color: white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 660px;
+  left: 1510px;
+  width: 120px;
+  height: 30px
+}
+
+.data-point7{
+  color: white;
+  background-color: black;
+  font-size: Larger;
+  font-weight: bold;
+  border-style: none;
+  border-color: inherit;
+  border-width: inherit;
+  position: absolute;
+  top: 855px;
+  left: 1530px;
+  width: 120px;
+  height: 30px
+}
+
+.data-point8{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 750px;
+    left: 410px;
+    width: 120px;
+    height: 30px
+}
+
+.data-point9{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 590px;
+    left: 390px;
+    width: 120px;
+    height: 30px
+}
+
+.data-point10{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 680px;
+    left: 150px;
+    width: 120px;
+    height: 30px
+}
+
+.data-point11{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 480px;
+    left: 1530px;
+    width: 120px;
+    height: 30px
+}
+
+.data-point12{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 720px;
+    left: 57%;
+    width: 120px;
+    height: 30px
+}
+
+.data-point13{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 77%;
+    left: 12%;
+    width: 120px;
+    height: 30px
+}
+
+.data-point14{
+    color: black;
+    background-color: white;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 80%;
+    left: 12%;
+    width: 120px;
+    height: 30px
+}
+
+
+.zonewise-btn-group button {
+    background-color: green; 
+    border: solid 1px grey; 
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: white; 
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: left; 
+    margin-left:20px;
+    margin-top: 55%;
+    width:13%;
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .zonewise-btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .zonewise-btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  /* Add a background color on hover */
+  .zonewise-btn-group button:hover {
+    background-color: white;
+    color: green;
+  }
+  .Footer-text {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+  }

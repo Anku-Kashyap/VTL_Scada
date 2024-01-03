@@ -1,0 +1,313 @@
+/* .header {
+    background-image: url(/src/images/HP2.jpg);
+    background-repeat: repeat-y;
+      background-size: 100%;
+      position:relative;
+      top: 5px;
+      left: 25px;
+      width: 75%;
+      height: 150px;
+      transform:scaleY(0.8);
+      top: 10px
+  } */
+  
+.zone1-wise-area-Matranchal
+  {
+    background-image: url(/src/images/Matrancahl.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }  
+
+.zone1-wise-area {
+    background-image: url(/src/images/zone-wise-pressure.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }
+
+  .zone1-wise-area-Pratitnagar
+  {
+    background-image: url(/src/images/pratitnagar.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }
+
+  .zone1-wise-area-nathuawala
+  {
+    background-image: url(/src/images/nathuawala.png);
+    background-repeat: no-repeat;
+    border-width: 0px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    width: 2000px;
+    height: 1160px;
+  }
+
+.data1-point1{
+    color:white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 270px;
+    left: 200px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point2{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 465px;
+    left: 335px;
+    width: 120px;
+    height: 30px
+}
+
+
+.data1-point3{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 550px;
+    left: 335px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point4{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 285px;
+    left: 1520px;
+    width: 120px;
+    height: 30px
+
+}
+
+.data1-point5{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 522px;
+    left: 1490px;
+    width: 120px;
+    height: 30px
+    
+}
+
+.data1-point6{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 745px;
+    left: 1490px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point7{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 460px;
+    left: 75%;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point8{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 550px;
+    left: 390px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point9{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 590px;
+    left: 390px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point10{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 680px;
+    left: 150px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point11{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 680px;
+    left: 1090px;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point12{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 820px;
+    left: 71%;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point13{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 77%;
+    left: 12%;
+    width: 120px;
+    height: 30px
+}
+
+.data1-point14{
+    color: white;
+    background-color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 80%;
+    left: 12%;
+    width: 120px;
+    height: 30px
+}
+
+
+.zonewise1-btn-group button {
+    background-color: green; 
+    border: solid 1px grey; 
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: white; 
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: left; 
+    margin-left:20px;
+    margin-top: 55%;
+    width:13%;
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .zonewise1-btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .zonewise1-btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  /* Add a background color on hover */
+  .zonewise1-btn-group button:hover {
+    background-color: black;
+    color: green;
+  }
+  .Footer-text {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    top:50px
+  }

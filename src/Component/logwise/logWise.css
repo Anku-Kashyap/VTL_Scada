@@ -1,0 +1,184 @@
+.header {
+  background-image: url(/src/images/HP2.jpg);
+  background-repeat: repeat-y;
+    background-size: 100%;
+    position:relative;
+    top: 0px;
+    left: 0px;
+    width: 0%;
+    height: 150px;
+    transform:scaleY(0.9);
+
+  /* width: 125%;
+  height: 120px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: fill;
+  object-fit: cover; */
+}
+
+/* 
+/* .main-area {
+    text-align: center;
+    width: 130%;
+    height: 1106px;
+    left: 0px;
+    background-color: #292C42;
+    right: 0px;
+    margin-top: 9px;
+  } */
+   */
+
+/* .logWise form label:first-child {
+    color: White;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    
+    left: px;
+    top: 0px;
+    width: 168px;
+    height: 36px;
+    padding: 5px;
+    
+} */
+
+#logwise-division{
+    font-size: Larger;
+    border-style: solid;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    width: 80px;
+    height: 20px;
+    margin-left: 50px;
+    border: none;
+}
+
+.logWise select{
+  font-size: Larger;
+    border-style: solid;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    top: 160px;
+    left: 197px;
+    width: 342px;
+    height: 40px;
+    margin-left: 50px;
+    border: none;
+    
+
+}
+
+.logWise form label {
+    color: White;
+    font-size:xx-large;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    left: 4%;
+    top: 150px;
+    width: 168px;
+    height: 32px;
+    padding: 5px;
+    
+}
+
+.logWise form input {
+    color: black;
+    font-size: Larger;
+    font-weight: bold;
+    border-style: none;
+    border-color: inherit;
+    border-width: inherit;
+    position: absolute;
+    left: 40%;
+    top: 160px;
+    width: 168px;
+    height: 32px;
+    padding: 5px;
+    border: none;
+    
+}
+
+.submit {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    padding: 8px;
+    width: 180px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 160px;
+    margin-left: 55%;
+  }
+  
+  .submit span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .submit span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .submit:hover span {
+    padding-right: 25px;
+  }
+  
+  .submit:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  .logwise-btn-group button {
+    background-color: green; 
+    border: solid 1px grey; 
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: white; 
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: left; 
+    margin-left:20px;
+    margin-top: 25%;
+    width:15%;
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .logwise-btn-group button:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .logwise-btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  /* Add a background color on hover */
+  .logwise-btn-group button:hover {
+    background-color: white;
+    color: green;
+  }
+
